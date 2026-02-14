@@ -10,5 +10,6 @@ Budget Lock - Users can set a budget and if there are spening more than that the
 
 Story:
 -- prevent impulsing buying
+-- makes banks have lower risk customers because less customers are taking out huge loans and not repaying them.
 
 https://prod.liveshare.vsengsaas.visualstudio.com/join?424515D0D38568525A2DAC14060F5B21F7FB
