@@ -5,6 +5,7 @@ Budget Lock - Users can set a budget and if there are spening more than that the
 -- can override budget locks for emergencies such as Health, etc
 -- graph to display current spending 
 -- alters to notify users when they are approaching their limits and might be locked out
+-- There is a risk score based off of how much they have left for essentials, is the thing that they are purchasing worth it?
 
 
 
